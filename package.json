@@ -1,0 +1,10 @@
+{
+  "name": "scaffold-test-2",
+  "version": "0.0.0",
+  "private": false,
+  "type": "module",
+  "scripts": {
+    "test": "node --test",
+    "lint": "echo \"no linter configured\""
+  }
+}
